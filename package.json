@@ -1,0 +1,13 @@
+{
+  "name": "pinyin-tone-converter",
+  "version": "1.0.0",
+  "description": "Convert pinyin tones between tone marks (nǐ hǎo), tone numbers (ni3 hao3) and no tones (ni hao). Zero dependencies.",
+  "main": "src/index.js",
+  "files": ["src", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["pinyin tones", "pinyin tone marks", "pinyin numbers", "tone numbers to tone marks", "pinyin", "mandarin"],
+  "license": "MIT",
+  "author": "Uranbek Anarbaev",
+  "homepage": "https://pinyin.hsk-tutor.com/guides/pinyin-tones-explained/",
+  "engines": { "node": ">=14" }
+}
